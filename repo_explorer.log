@@ -1,0 +1,414 @@
+[2026-06-08 13:01:23,402] [ERROR] API Error: Get "users/https://github.com/Entendore/repos?per_page=100&page=1": unsupported protocol scheme ""
+
+[2026-06-08 13:17:45,507] [ERROR] API Error: Get "users/https://github.com/Entendore/repos?per_page=100&page=1": unsupported protocol scheme ""
+
+[2026-06-08 13:22:55,512] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:22:57,791] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:00,006] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:02,298] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:04,587] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:06,898] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:09,181] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:11,482] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:13,885] [ERROR] API Error: gh: Branch not found (HTTP 404)
+
+[2026-06-08 13:23:14,299] [ERROR] API Error: gh: Git Repository is empty. (HTTP 409)
+
+[2026-06-08 13:23:16,042] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:18,401] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:20,740] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:23,221] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:25,440] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:27,680] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:29,930] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:32,357] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:34,772] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:37,018] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:39,371] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:42,668] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:45,227] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:47,757] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:50,549] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:53,055] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:55,490] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:23:58,144] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:00,851] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:03,232] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:05,717] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:08,065] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:10,429] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:12,748] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:15,041] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:17,405] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:19,781] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:22,101] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:24,339] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:26,576] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:28,970] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:31,329] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:33,546] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:35,916] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:38,329] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:40,802] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:43,994] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:46,284] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:48,659] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:50,928] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:53,206] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:55,481] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:24:57,720] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:00,049] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:02,413] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:04,928] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:07,341] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:09,662] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:12,009] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:14,366] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:16,767] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:19,297] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:21,818] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:24,177] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:26,452] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:28,758] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:31,239] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:33,659] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:36,138] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:38,441] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:40,811] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:43,250] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:45,729] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:48,356] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:50,797] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:53,082] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:55,478] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:25:57,758] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:00,178] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:02,793] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:05,175] [ERROR] API Error: gh: Branch not found (HTTP 404)
+
+[2026-06-08 13:26:05,859] [ERROR] API Error: gh: Git Repository is empty. (HTTP 409)
+
+[2026-06-08 13:26:08,090] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:10,469] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:12,907] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:15,172] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:17,404] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:19,707] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:22,317] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:24,635] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:27,305] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:30,041] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:32,604] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:35,087] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:37,629] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:39,926] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:42,948] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:45,487] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:48,051] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:50,709] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:53,602] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:56,008] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:26:58,416] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:00,661] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:02,897] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:05,114] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:07,423] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:09,813] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:12,170] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:14,603] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:16,993] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:19,272] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:21,516] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:23,807] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:26,288] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:28,815] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:31,030] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:33,206] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:35,395] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:37,576] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:39,932] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:42,415] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:44,951] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:47,304] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:49,787] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:52,141] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:54,487] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:56,832] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:27:59,119] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:01,342] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:04,100] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:06,686] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:09,016] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:11,275] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:13,500] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:15,760] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:18,060] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:20,503] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:22,958] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:25,261] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:27,706] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:30,133] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:32,513] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:34,799] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:37,146] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:39,376] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:41,596] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:43,934] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:46,181] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:48,478] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:50,833] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:53,040] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:55,329] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:57,522] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:28:59,799] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:02,112] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:04,350] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:06,557] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:08,735] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:11,003] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:13,363] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:15,755] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:17,994] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:20,283] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:22,627] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:25,029] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:27,488] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:29,702] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:31,881] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:34,494] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:36,977] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:39,506] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:41,839] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:44,246] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:46,491] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:48,714] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:51,051] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:53,298] [ERROR] API Error: gh: Branch not found (HTTP 404)
+
+[2026-06-08 13:29:53,745] [ERROR] API Error: gh: Git Repository is empty. (HTTP 409)
+
+[2026-06-08 13:29:55,467] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:29:57,642] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:00,054] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:02,326] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:04,579] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:06,914] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:09,208] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:11,399] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:13,658] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:16,033] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:18,180] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:20,387] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:22,643] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:24,789] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:27,149] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:29,380] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:31,723] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:34,021] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:36,312] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:38,769] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:41,072] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:43,459] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:45,719] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:47,888] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:50,097] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+
+[2026-06-08 13:30:52,516] [ERROR] API Error: gh: Branch not protected (HTTP 404)
+

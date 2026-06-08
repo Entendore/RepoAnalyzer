@@ -1,0 +1,44 @@
+# >>> BASE RULES >>>
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Cache / temp
+.cache/
+tmp/
+temp/
+
+# Build / artifacts
+build/
+dist/
+
+# <<< BASE RULES <<<
+
+# >>> AUTO DISCOVERED RULES >>>
+.repo_profiles/
+.repo_cache/
+*.db
+*.log
+# <<< AUTO DISCOVERED RULES <<<
